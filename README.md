@@ -20,4 +20,4 @@ Moviesse is Movie List app to show the movie list by selected category, the cate
 
 ## Demo
 
-[![Moviesse-Demo](https://i.imgur.com/vSTqWo5.png)](https://youtu.be/9sKOyvRcaK0)
+![Moviesse-Demo](https://youtu.be/9sKOyvRcaK0)
